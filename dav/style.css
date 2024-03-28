@@ -1,0 +1,95 @@
+body {
+    background-color:hsl(30, 38%, 92%) ;
+}
+.div {
+   background-color:hsl(0, 0%, 100%) ;
+   width: 700px;
+   height: 450px;
+   margin-left: 400px;
+   margin-top: 180px;
+   border-radius: 10px;
+}
+.mtavari_photo {
+    width: 350px;
+    height: 450px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.perfume {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    color: hsl(212, 21%, 14%);
+    margin-top: -420px;
+    margin-left: 390px;
+}
+.mg {
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 500px;
+    font-size: 40px;
+    margin-left: 390px;
+    margin-top: -1px;
+}
+.tg {
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 500px;
+    font-size: 40px;
+    margin-left: 390px;
+    margin-top: -35px;
+}
+.ms {
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 500px;
+    font-size: 40px;
+    margin-left: 390px;
+    margin-top: -35px;
+}
+.nr {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500px;
+    font-style: normal;
+    color: hsl(228, 12%, 48%) ;
+    margin-left: 390px; 
+    margin-top: -5px;
+}
+.nn {
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 500px;
+
+    color: hsl(158, 36%, 37%); 
+    margin-left: 400px;
+}
+.mt{
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 500px;
+    color: rgb(167, 167, 167);
+    margin-left: 550px;
+    margin-top: -50px;
+    font-size: 15px;
+    text-decoration-line: line-through;
+}
+.div1 {
+    background-color:hsl(158, 36%, 37%);
+    width: 290px;
+    height: 45px;
+    margin-left: 780px;
+    margin-top: -70px;
+    border-radius: 5px;
+}
+.tt {
+    margin-top: -22px;
+    margin-left: 110px;
+    color: rgb(255, 255, 255);
+}
+.cart {
+    width: 20px;
+    height: 20px;
+    margin-left: 70px;
+    margin-top: 12px;
+}
